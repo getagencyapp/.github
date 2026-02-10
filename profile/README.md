@@ -1,4 +1,4 @@
-# Agency — Canonical Product Overview
+# Agency Overview
 
 ## What is Agency?
 
